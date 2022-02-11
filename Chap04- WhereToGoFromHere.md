@@ -1,4 +1,4 @@
-## Showcase to the world
+# Showcase to the world
 
 Let’s goooooo! Again you have done it. You just learned how we can make a damage system for the game. Don't forget to do some celebration with your friend on [discord](https://discord.com/invite/R4hfXhsWjN).
 
