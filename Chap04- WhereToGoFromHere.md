@@ -2,8 +2,6 @@
 
 Let’s goooooo! Again you have done it. You just learned how we can make a damage system for the game. Don't forget to do some celebration with your friend on [discord](https://discord.com/invite/R4hfXhsWjN).
 
-Ohh I almost forgot, you just earned **20 Learning points**. Keep going to earn rewards. Do the following to secure them.
-Tag us @Outscal on LinkedIn and Twitter and fill out the form [here](https://airtable.com/shrXGSkgf5NClpoIU) to let us know you're worthy.
 
 ![Celebrate](https://media.giphy.com/media/kyLYXonQYYfwYDIeZl/giphy.gif)
 
