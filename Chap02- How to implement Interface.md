@@ -39,3 +39,11 @@ public class EnemyController
 	 }
 ```
 Like this, you can use it for damaging the player tank also.
+
+---
+## Repository of Battle Tank game
+In order to test your skills, Checkout the repository below for,
+
+Problem Statement and Solution for the Damage System of Battle tank game.
+
+https://github.com/outscal/Battle-Tank-Damage-System-Project
