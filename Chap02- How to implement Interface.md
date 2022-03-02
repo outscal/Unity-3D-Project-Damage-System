@@ -1,4 +1,4 @@
-## How to implement Interface?
+## Implementation Using interface?
 
 In our game, we are using the interface for the damage system. For this, first, we have to create an interface called IDamagable. But remember if you are making an interface, always the name of that interface will start with I then followed by any name like - IShootable, IPickable, etc.
 
