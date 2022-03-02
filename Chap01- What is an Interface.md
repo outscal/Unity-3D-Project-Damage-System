@@ -8,7 +8,7 @@ If you want to know more about interfaces, checkout this course - [Use of Interf
 
 ---
 ## Repository of Battle Tank game
-In order to test your skills post completing this project, Checkout the repository below for,
+In order to test your skills before completing this project, Checkout the repository below for,
 
 Problem Statement for the Damage System of Battle tank game.
 
