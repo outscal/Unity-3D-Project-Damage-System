@@ -1,4 +1,4 @@
-## What is an Interface?
+# What is an Interface?
 
 When programming in Unity, it's easy to overcomplicate your code, which in turn can become harder to maintain the more you add to it. Luckily there are ways to simplify the programming workflow, one of such ways is by implementing C# Interfaces.
 
