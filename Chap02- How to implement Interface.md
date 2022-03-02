@@ -46,4 +46,4 @@ In order to test your skills, Checkout the repository below for,
 
 Problem Statement and Solution for the Damage System of Battle tank game.
 
-https://github.com/outscal/Battle-Tank-Damage-System-Project
+[GitHub Repo](https://github.com/outscal/Battle-Tank-Damage-System-Project)
