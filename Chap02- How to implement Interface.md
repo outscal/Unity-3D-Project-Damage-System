@@ -5,38 +5,38 @@ In our game, we are using the interface for the damage system. For this, first, 
 Like this -
 ```C#
 public interface IDamagable
-    {
-        void TakeDamage(float damage);
-    }
+{
+    void TakeDamage(float damage);
+}
 ```
 Now we have created an interface, let’s see how to use it. In order to use it, you have to inherit the interface first and then implement all the methods which are inside it. 
 
 Like this -
 ```C#
 public class EnemyView: Monobehaviour, IDamagable
-	 {
-		public void TakeDamage(float damage)
-        	{
-            		controller.ApplyDamage(damage);
-        	}
-	 }
+{
+    public void TakeDamage(float damage)
+    {
+        controller.ApplyDamage(damage);
+    }
+}
 ```
 EnemyController -
 ```C#
 public class EnemyController
-	 {
-		public void ApplyDamage(float damage)
-        	{
-        	    	if (model.health <= 0) return;
+{
+    public void ApplyDamage(float damage)
+    {
+        if (model.health <= 0) return;
 	
-            		if (model.health - damage <= 0)
-            		{
-                		//enemy dead
-            		}
-            		else
-                		model.health -= damage;
-        	}
-	 }
+        if (model.health - damage <= 0)
+        {
+            //enemy dead
+        }
+        else
+            model.health -= damage;
+     }
+}
 ```
 Like this, you can use it for damaging the player tank also.
 
