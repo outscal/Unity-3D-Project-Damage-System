@@ -15,27 +15,27 @@ Like this -
 ```C#
 public class EnemyView: Monobehaviour, IDamagable
 	 {
-				public void TakeDamage(float damage)
-        {
-            controller.ApplyDamage(damage);
-        }
+		public void TakeDamage(float damage)
+        	{
+            		controller.ApplyDamage(damage);
+        	}
 	 }
 ```
 EnemyController -
 ```C#
 public class EnemyController
 	 {
-				public void ApplyDamage(float damage)
-        {
-            if (model.health <= 0) return;
-
-            if (model.health - damage <= 0)
-            {
-                //enemy dead
-            }
-            else
-                model.health -= damage;
-        }
+		public void ApplyDamage(float damage)
+        	{
+        	    	if (model.health <= 0) return;
+	
+            		if (model.health - damage <= 0)
+            		{
+                		//enemy dead
+            		}
+            		else
+                		model.health -= damage;
+        	}
 	 }
 ```
 Like this, you can use it for damaging the player tank also.
